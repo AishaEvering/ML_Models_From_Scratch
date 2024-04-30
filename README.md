@@ -21,4 +21,4 @@ This repo will contain various ML models written from scratch via a tutorial.  I
 
 ## 🙏 Acknowledgments
 
-* [Patrick Loeber]([https://github.com/mrdbourke](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)) 
+* Patrick Loeber : [ML FROM SCRATCH](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)

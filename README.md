@@ -12,6 +12,7 @@ This repo will contain various ML models written from scratch via a tutorial.  I
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
+
 ## Extra Info:
 - [Classification Model Metrics](#classification-model-metrics)<br>
 - [Regression Model Metrics](#regression-model-metrics)
@@ -22,7 +23,10 @@ This repo will contain various ML models written from scratch via a tutorial.  I
    * Make sure the k is an odd number to avoid ties for majority.
 
 ## [Linear Regression](https://github.com/AishaEvering/ML_Models_From_Scratch/blob/main/Linear_Regression.ipynb)
-   * A used to understand and quantify the relationship between two variables by fitting a straight line to the observed data points.
+   * Understand and quantify the relationship between two variables by fitting a straight line to the observed data points.
+
+## [Logistic Regression](https://github.com/AishaEvering/ML_Models_From_Scratch/blob/main/Logistic_Regression.ipynb)
+   * Understand the relationship between the independent variables and the categorical outcome using the logistic function (sigmoid), which outputs probabilities between 0 and 1.
 
 <hr />
 
